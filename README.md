@@ -4,7 +4,7 @@ Hi 👋 My name is Yeelang
 Student
 -------
 
-I'm a student from National University of Laos. I started coding for 2 years.
+I'm a university student at National University of Laos. I started coding for 2 years.
 
 * 🌍  I'm based in Vientiane, Laos.
 
